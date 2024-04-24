@@ -1,0 +1,4 @@
+This software includes third party open source software components: PokeAPI api-data. 
+
+Each of these software components have their own license. Please see ./data/LICENSE.txt
+
